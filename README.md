@@ -10,3 +10,13 @@ CloudOn app (acquired by dropbox)
 - phone and tablet / landscape and portrait orientations
 - localize and accessibility
 
+
+new Tablet UI
+https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
+
+old Table UI
+https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
+
+phone UI
+https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
+
