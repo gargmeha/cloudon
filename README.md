@@ -10,6 +10,19 @@ CloudOn app (acquired by dropbox)
 - phone and tablet / landscape and portrait orientations
 - localize and accessibility
 
+Worked on following features:
+- Drawer navigation, view pager for tutorial screen,
+- Activity wall
+- stand alone annotation/narration feature
+- share documents flow
+- integrating crashlytics for crash reporting
+- integrating analytics (flurry, google analytics, bityota)
+- integrating leanplum for A/B testing
+- integrating marketing SDKs (vungle, fiksu, admobs)
+- nightly builds and uploading to play store
+- image downloading/caching
+- cloudprint and in-app billing
+
 
 new Tablet UI:
 https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
