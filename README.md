@@ -18,5 +18,4 @@ old Table UI:
 https://drive.google.com/open?id=0B25JcpedG0JvSFBPUXhyVS14dlk
 
 phone UI:
-https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
-
+https://drive.google.com/open?id=0B25JcpedG0JvU29aYTRlY0NtWk0
