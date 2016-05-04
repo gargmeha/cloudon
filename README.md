@@ -11,12 +11,12 @@ CloudOn app (acquired by dropbox)
 - localize and accessibility
 
 
-new Tablet UI
+new Tablet UI:
 https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
 
-old Table UI
+old Table UI:
 https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
 
-phone UI
+phone UI:
 https://drive.google.com/folderview?id=0B25JcpedG0JvejFDTG9ONjNTT3c&usp=sharing
 
