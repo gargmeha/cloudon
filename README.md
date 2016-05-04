@@ -13,7 +13,7 @@ CloudOn app (acquired by dropbox)
 Worked on following features:
 - Drawer navigation, view pager for tutorial screen,
 - Activity wall
-- stand alone annotation/narration feature
+- stand alone annotation/narration feature on documents
 - share documents flow
 - integrating crashlytics for crash reporting
 - integrating analytics (flurry, google analytics, bityota)
